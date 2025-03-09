@@ -23,9 +23,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" height="30">
 </div>
 
-  
-<h2 align="left">Contact</h2>
-
 
 <a href="https://www.linkedin.com/in/queirozz8/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=1572B6" alt="linkedin logo" height="25">
